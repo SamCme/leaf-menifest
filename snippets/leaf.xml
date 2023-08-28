@@ -130,4 +130,4 @@
   <project path="system/sepolicy" name="LeafOS-Project/android_system_sepolicy" groups="pdk" />
   <remove-project name="platform/system/tools/mkbootimg" />
   <project path="system/tools/mkbootimg" name="LeafOS-Project/android_system_tools_mkbootimg" groups="pdk" />
-<manifest>
+</manifest>
